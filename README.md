@@ -3,4 +3,3 @@
 
 ## add fzf 
     sudo pacman -S fzf
-### for fzf key "`" + o fzf
